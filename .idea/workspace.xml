@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0003876-1806-48a9-88ea-4b9eb76768f7" name="Default Changelist" comment="Inicialización de pruebas">
+      <change afterPath="$PROJECT_DIR$/tips.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/typescript 2/arg-op-def-ob.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/typescript 2/clases.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/typescript 2/desestructuracion.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/typescript 2/flecha.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/typescript 2/interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/typescript 2/promise1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/typescript 2/promise2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/typescript 2/template-literal.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/typescript 2/tipos.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jUABms1587cDdnn3zoy6WTTVnk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/typescript/typescript 2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\santi\Desktop\Proyectos\Angular\Typescript_test\typescript\typescript 2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0003876-1806-48a9-88ea-4b9eb76768f7" name="Default Changelist" comment="" />
+      <created>1603848164220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603848164220</updated>
+      <workItem from="1603848165352" duration="1258000" />
+      <workItem from="1603910159379" duration="6836000" />
+      <workItem from="1603919805631" duration="5356000" />
+      <workItem from="1603931024812" duration="3438000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inicialización de pruebas">
+      <created>1603848463612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603848463612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/typescript/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicialización de pruebas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicialización de pruebas" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="186" key="#Notifications" timestamp="1603913144405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="186" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1603913144405" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603911176401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603911176401" />
+    <state x="451" y="121" width="800" height="600" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1603910934819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="121" width="800" height="600" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603910934819" />
+    <state x="462" y="104" key="FileChooserDialogImpl" timestamp="1603911291961">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603911291961" />
+    <state x="183" y="7" key="SettingsEditor" timestamp="1603915923103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603915923103" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1603911089632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603911089632" />
+    <state x="694" y="182" key="run.anything.popup" timestamp="1603933645266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="694" y="182" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603933645266" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603924851587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603924851587" />
+  </component>
+</project>

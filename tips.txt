@@ -1,0 +1,1 @@
+tsc -w (Modo de escucha) Esto hará que el js y el ts esten actualizados todo el tiempo
